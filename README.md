@@ -1,7 +1,5 @@
 # Code Flow Analyzer (CFA) v6 - Smart AOB Edition
 
-![CFA Preview](https://raw.githubusercontent.com/gamesapeca/code-flow-analyzer-v6/main/preview.png)
-
 A high-performance, dynamic memory analyzer designed for advanced reverse engineering and exploit development. CFA v6 integrates the **Capstone Engine** to provide semantic understanding of x86/x64 execution flows directly from volatile memory.
 
 ## 🔥 Key Features
