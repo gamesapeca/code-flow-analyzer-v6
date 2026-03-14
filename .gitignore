@@ -1,0 +1,17 @@
+# Bytecode
+__pycache__/
+*.pyc
+
+# Local Test Files
+*.json
+*.txt
+*.dmp
+*.mem
+
+# Virtual Environments
+venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
